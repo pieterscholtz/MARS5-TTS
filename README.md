@@ -17,8 +17,8 @@
 
 </div>
 
-
-
+# Updates
+<> July 5, 2024: Latest AR checkpoint released: higher stability of output. Very big update coming soon!
 
 
 # Approach
@@ -230,6 +230,10 @@ We're actively hiring; please drop us an email at ack@camb.ai if you're interest
 
 Join CAMB.AI community on [Forum](https://github.com/Camb-ai/MARS5-TTS/discussions) and
 [Discord](https://discord.gg/FFQNCSKSXX) to share any suggestions, feedback, or questions with our team.
+
+
+## Support Camb.ai on Ko-fi ❤️!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cambai)
 
 
 ## Acknowledgements
